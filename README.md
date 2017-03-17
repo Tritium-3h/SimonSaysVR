@@ -5,7 +5,7 @@
 ## Instruction
 
 Watch for the sound tubes sequence and repeat it pushing
-on the same color keyes
+on the same color keys
 
 Screenshot: 
 ![alt text][screenshot_0]
