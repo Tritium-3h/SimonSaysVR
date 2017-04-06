@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "472466111671",
-    "firebase_url": "https://unitytest-72cdd.firebaseio.com",
-    "project_id": "unitytest-72cdd",
-    "storage_bucket": "unitytest-72cdd.appspot.com"
+    "project_number": "129141159231",
+    "firebase_url": "https://simonsaysfirebase.firebaseio.com",
+    "project_id": "simonsaysfirebase",
+    "storage_bucket": "simonsaysfirebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:472466111671:android:726ba240d7299e51",
+        "mobilesdk_app_id": "1:129141159231:android:b03e44e0000e7c02",
         "android_client_info": {
-          "package_name": "com.google.PlayGround"
+          "package_name": "com.wbigger.simonsaysfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "472466111671-jm6u7rmrngq6n4bm2q83lnh0ojfs7mb6.apps.googleusercontent.com",
+          "client_id": "129141159231-kdciiq0c6oiaums0mdteb0gbf8jc7bka.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.google.PlayGround",
-            "certificate_hash": "42d28092ec794a07f8a4dddb295e3b8acd5996d9"
+            "package_name": "com.wbigger.simonsaysfirebase",
+            "certificate_hash": "8dbfd6c746eb7a022548ca081dadd8676ef026a7"
           }
         },
         {
-          "client_id": "472466111671-hp27tvtn8kl1obermsfb6rbeud5rq1vl.apps.googleusercontent.com",
+          "client_id": "129141159231-0fr7mdjh6j1omk416fpn9lg1fn5o4rp4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBlspmAiyrqVOZc9hIK_RynAqS9Syf7fB8"
+          "current_key": "AIzaSyCG3JBoVaDhYIP-LsPpZD5_9KXjk8Rs9v4"
         }
       ],
       "services": {
@@ -40,10 +40,41 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "472466111671-hp27tvtn8kl1obermsfb6rbeud5rq1vl.apps.googleusercontent.com",
+              "client_id": "129141159231-0fr7mdjh6j1omk416fpn9lg1fn5o4rp4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129141159231:android:726ba240d7299e51",
+        "android_client_info": {
+          "package_name": "com.google.PlayGround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129141159231-0fr7mdjh6j1omk416fpn9lg1fn5o4rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3JBoVaDhYIP-LsPpZD5_9KXjk8Rs9v4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
