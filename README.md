@@ -4,6 +4,8 @@
 
 ## Instruction
 
+You can find more info in this presentation: goo.gl/ZkKFvE
+
 Watch for the sound tubes sequence and repeat it pushing
 on the same color keys
 
